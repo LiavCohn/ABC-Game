@@ -2,7 +2,7 @@
 Contains 2 games the meant to teach small children the ABC!
 
 First game , the easy one, place all the letters in their correct order.
-I'n the second game the player need to find all the pairs in the board - match the small letter to the big one.
+In the second game the player need to find all the pairs in the board - match the small letter to the big one.
 
 ![image](https://user-images.githubusercontent.com/88855154/161916622-10caf375-57fe-47b5-8407-cfd247ccfdef.png)
 
