@@ -1,5 +1,5 @@
 # ABC-Game
-Contains 2 games the meant to teach small childen the ABC!
+Contains 2 games the meant to teach small children the ABC!
 
 First game , the easy one, place all the letters in their correct order.
 I'n the second game the player need to find all the pairs in the board - match the small letter to the big one.
